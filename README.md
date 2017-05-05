@@ -2,6 +2,8 @@
 
 Release Note
 
+Note 3
+
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions.
 
 Emoji are also supported in Markdown! :thumbsup:
